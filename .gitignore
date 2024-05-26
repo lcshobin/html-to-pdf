@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Local development files
+.env
+
+# Editor-specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+#build
+dist/
